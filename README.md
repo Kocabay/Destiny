@@ -1,17 +1,15 @@
-# Landing Page
+# Destiny Site Project (Animation and Full Resposive)
 
-Project that based on styling.
+## What i practice
 
-## Used Technologies
+- Used HTML CSS JS for Design
+- Full Responsive
+- Animation
 
-```
-HTML5 CSS3
-```
+## `URL`
 
-## Preview
+destinydemo.netlify.app
 
-[Live Preview](https://landingg-page.netlify.app/)
+## `Screen`
 
-<img src="https://user-images.githubusercontent.com/109925130/225707022-9df20464-6123-4523-b0bf-7baaa32448d4.gif" >
-# bootstrap-proje
-# Destiny
+![](destiny.gif)
