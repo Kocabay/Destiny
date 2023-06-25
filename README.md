@@ -12,4 +12,4 @@ destinydemo.netlify.app
 
 ## `Screen`
 
-![](destiny.gif)
+![](destiny.gif) 
